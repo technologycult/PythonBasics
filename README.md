@@ -3,7 +3,7 @@ Repository for all the Python Basics Code
 
 Chapters
 
-[How To Install Anaconda On Windows](https://youtu.be/satUNizll4o) [| github code link](https://github.com/technologycult/PythonBasics/blob/master/Receiving-Input-in-Python.py) <br/>
+[How To Install Anaconda On Windows](https://youtu.be/satUNizll4o) </br>
 [How to Install Python 3.7.X and  Pycharm version in Windows 10](https://youtu.be/2KEMovccsic) <br/>
 [1.01 Python Print, Format Function and Padding in Python](https://youtu.be/WW_c6jOemWo) <br/>
 [1.02 Exercise on print(), format(), len() and Padding in Python](https://youtu.be/sKjn2m_f_aM) <br/>
